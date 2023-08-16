@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#principal{
+    background: rgb(175, 174, 174);
+    width:80%;
+    height:500px;
+    border: 2px solid red;
+}
+
